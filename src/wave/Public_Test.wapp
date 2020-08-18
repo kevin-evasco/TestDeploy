@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <folder>Public_Test</folder>
+    <masterLabel>Public Test</masterLabel>
+    <shares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>vin.evasco@delasalle.ph.wave</sharedTo>
+        <sharedToType>User</sharedToType>
+    </shares>
+</WaveApplication>
